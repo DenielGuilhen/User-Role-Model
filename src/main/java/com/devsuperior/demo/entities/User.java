@@ -77,6 +77,7 @@ public class User {
                 return true;
             }
         }
+        return false;
     }
     @Override
     public boolean equals(Object o) {
